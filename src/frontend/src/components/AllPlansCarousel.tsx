@@ -456,7 +456,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Social Media Management – Starter",
     description: "Basic social media management for small businesses.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "2 social platforms managed",
       "12 posts per month",
@@ -480,7 +480,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Social Media Management – Growth",
     description:
       "Comprehensive management with engagement & bi-weekly reporting.",
-    price: "₹7,500",
+    price: "₹7,499",
     features: [
       "3 social platforms managed",
       "20 posts per month",
@@ -504,7 +504,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Social Media Management – Pro",
     description:
       "Full-service with reels, influencer coordination & weekly reporting.",
-    price: "₹12,500",
+    price: "₹12,499",
     features: [
       "4 social platforms managed",
       "30 posts per month",
@@ -528,7 +528,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Instagram Growth Pack",
     description:
       "Dedicated Instagram growth with content creation & hashtag strategy.",
-    price: "₹3,500",
+    price: "₹3,499",
     features: [
       "15 feed posts per month",
       "20 stories per month",
@@ -552,7 +552,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "LinkedIn Brand Building",
     description:
       "Professional LinkedIn presence for personal brands & companies.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Profile optimization (personal/company)",
       "12 thought leadership posts/month",
@@ -576,7 +576,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "YouTube Channel Management",
     description:
       "Complete YouTube management with video optimization & growth.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "Full channel SEO optimization",
       "Video title & description optimization",
@@ -673,7 +673,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "SEO – Basic",
     description:
       "On-page optimization & keyword research for up to 10 keywords.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "10 target keywords optimized",
       "Meta title & description writing",
@@ -696,7 +696,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "SEO – Standard",
     description: "Comprehensive SEO with on-page, off-page & link building.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "25 target keywords optimized",
       "Full technical SEO audit",
@@ -719,7 +719,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "SEO – Enterprise",
     description: "Enterprise SEO with unlimited keywords & weekly reporting.",
-    price: "₹12,500",
+    price: "₹12,499",
     features: [
       "Unlimited keywords targeted",
       "Dedicated SEO account manager",
@@ -743,7 +743,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "SEO Analysis",
     description:
       "In-depth SEO audit covering technical, on-page & backlink factors.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "Full technical SEO audit",
       "On-page factor analysis",
@@ -766,7 +766,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Local SEO & Maps Optimization",
     description: "Dominate local search with Google Maps & citation building.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "Google Business Profile optimization",
       "Google Maps ranking improvement",
@@ -862,7 +862,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Google Ads Management",
     description: "Setup & management of Search, Display & Shopping campaigns.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Google Search campaign setup",
       "Display Network campaign",
@@ -886,7 +886,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Meta Ads Management",
     description:
       "Facebook & Instagram paid advertising with audience targeting.",
-    price: "₹3,500",
+    price: "₹3,499",
     features: [
       "Facebook & Instagram campaign setup",
       "Custom audience creation",
@@ -910,7 +910,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "LinkedIn Ads Management",
     description:
       "B2B LinkedIn advertising for lead generation & brand awareness.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "LinkedIn Campaign Manager setup",
       "Sponsored content campaigns",
@@ -934,7 +934,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Paid Ads Tracker",
     description:
       "Comprehensive tracking & optimization across all paid channels.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Cross-platform tracking setup",
       "Google Tag Manager configuration",
@@ -957,7 +957,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "YouTube Ads Management",
     description: "YouTube advertising with TrueView, bumper & discovery ads.",
-    price: "₹4,500",
+    price: "₹4,499",
     features: [
       "TrueView in-stream campaign setup",
       "Bumper ad campaign management",
@@ -980,7 +980,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Pinterest & Twitter Ads",
     description: "Niche platform advertising on Pinterest and Twitter/X.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Pinterest Ads campaign setup",
       "Twitter/X Ads campaign setup",
@@ -1074,7 +1074,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Blog Writing – Starter",
     description: "SEO-optimized blog articles. 4 articles per month.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "4 blog articles per month",
       "SEO keyword integration",
@@ -1097,7 +1097,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Blog Writing – Growth",
     description: "High-quality long-form blog content. 8 articles per month.",
-    price: "₹4,500",
+    price: "₹4,499",
     features: [
       "8 long-form articles per month",
       "1,500–2,500 words per article",
@@ -1143,7 +1143,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Podcast Production & Marketing",
     description: "End-to-end podcast production, editing & marketing.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Podcast episode editing (4/month)",
       "Intro/outro creation",
@@ -1166,7 +1166,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Digital PR & Media Outreach",
     description: "Strategic PR campaigns to earn media coverage & backlinks.",
-    price: "₹7,500",
+    price: "₹7,499",
     features: [
       "Media list building (50+ outlets)",
       "Press release writing",
@@ -1260,7 +1260,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Email Marketing – Growth",
     description: "Advanced email marketing with automation & A/B testing.",
-    price: "₹4,500",
+    price: "₹4,499",
     features: [
       "4 email campaigns per month",
       "Up to 10,000 subscribers",
@@ -1284,7 +1284,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Email Marketing – Enterprise",
     description:
       "Full-service email marketing with drip campaigns & CRM integration.",
-    price: "₹4,500",
+    price: "₹4,499",
     features: [
       "Unlimited email campaigns",
       "Unlimited subscribers",
@@ -1308,7 +1308,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Email Campaign Manager",
     description:
       "Full-service campaign management with strategy, design & tracking.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "Campaign strategy development",
       "3 email campaigns per month",
@@ -1333,7 +1333,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Landing Page Design",
     description:
       "High-converting landing page with mobile responsiveness & CTA optimization.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "Custom landing page design",
       "Mobile-first responsive layout",
@@ -1356,7 +1356,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Business Website Development",
     description: "Professional 5–10 page website with CMS & contact forms.",
-    price: "₹17,500",
+    price: "₹17,499",
     features: [
       "5–10 page custom website",
       "CMS integration (WordPress/etc.)",
@@ -1380,7 +1380,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "E-Commerce Website",
     description:
       "Full-featured e-commerce with product catalog & payment gateway.",
-    price: "₹12,500",
+    price: "₹12,499",
     features: [
       "Full e-commerce platform setup",
       "Product catalog (up to 100 SKUs)",
@@ -1404,7 +1404,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Landing Page Builder",
     description:
       "Professional landing page with conversion optimization & A/B testing.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "Custom landing page build",
       "A/B testing setup",
@@ -1428,7 +1428,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "WordPress Website Pack",
     description:
       "Professional WordPress site with SEO setup & mobile optimization.",
-    price: "₹4,500",
+    price: "₹4,499",
     features: [
       "Custom WordPress theme design",
       "Responsive mobile optimization",
@@ -1452,7 +1452,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Shopify Store Setup",
     description:
       "Complete Shopify store with product listings & conversion optimization.",
-    price: "₹12,500",
+    price: "₹12,499",
     features: [
       "Shopify store setup & configuration",
       "Premium theme customization",
@@ -1477,7 +1477,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Brand Identity Design",
     description:
       "Complete brand identity with logo, color palette & guidelines.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Primary logo design (3 concepts)",
       "Secondary logo variant",
@@ -1547,7 +1547,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Digital Asset Manager",
     description:
       "Comprehensive digital asset management & library organization.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "Digital asset library setup",
       "Brand asset categorization",
@@ -1595,7 +1595,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Complete Brand Identity Pack",
     description:
       "Full brand identity with logo, guidelines & all brand collateral.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "Primary + secondary logo design",
       "Full color palette system",
@@ -1644,7 +1644,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Corporate Video Production",
     description:
       "End-to-end corporate video production with scripting & editing.",
-    price: "₹12,500",
+    price: "₹12,499",
     features: [
       "Pre-production planning",
       "Script writing & storyboarding",
@@ -1668,7 +1668,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Explainer Video (Animated)",
     description:
       "Animated explainer videos for products & services with voiceover.",
-    price: "₹7,500",
+    price: "₹7,499",
     features: [
       "60–90 second animated video",
       "Script writing included",
@@ -1693,7 +1693,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "WhatsApp Business Automation",
     description:
       "WhatsApp Business API with automated replies & chatbot flows.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "WhatsApp Business API setup",
       "Automated reply flows (10 flows)",
@@ -1717,7 +1717,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "CRM Setup & Automation",
     description:
       "CRM setup with automated lead nurturing & pipeline management.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "CRM platform setup (Zoho/HubSpot)",
       "Pipeline stage configuration",
@@ -1741,7 +1741,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "AI Chatbot Development",
     description:
       "Custom AI-powered chatbot for website, WhatsApp & social media.",
-    price: "₹4,500",
+    price: "₹4,499",
     features: [
       "Custom AI chatbot design",
       "NLP (Natural Language Processing)",
@@ -1765,7 +1765,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "WhatsApp Marketing Campaigns",
     description:
       "Targeted WhatsApp marketing with broadcast messages & catalogs.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "4 broadcast campaigns per month",
       "Target audience segmentation",
@@ -1789,7 +1789,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Lead Generation – Starter",
     description: "Targeted lead generation using LinkedIn & email outreach.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "LinkedIn lead prospecting",
       "100 targeted leads per month",
@@ -1813,7 +1813,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Lead Generation – Growth",
     description:
       "Multi-channel lead generation with paid ads & SEO integration.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "Multi-channel lead strategy",
       "300+ targeted leads per month",
@@ -1837,7 +1837,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "B2B Lead Generation",
     description:
       "Specialized B2B lead generation with account-based marketing.",
-    price: "₹7,500",
+    price: "₹7,499",
     features: [
       "Account-based marketing (ABM)",
       "500+ B2B leads per month",
@@ -1861,7 +1861,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Online Reputation Management",
     description: "Monitor & improve reputation across Google & social media.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Brand mention monitoring (24/7)",
       "Google review management",
@@ -1885,7 +1885,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Google My Business Optimization",
     description:
       "Complete GMB optimization, post management & review response.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "GMB profile full optimization",
       "Business category optimization",
@@ -1909,7 +1909,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Marketing Analytics Setup",
     description: "Setup GA4, Tag Manager & custom dashboards for tracking.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Google Analytics 4 setup",
       "Google Tag Manager configuration",
@@ -1932,7 +1932,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Monthly Marketing Report",
     description: "Comprehensive monthly performance report with insights.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "Full monthly performance report",
       "SEO ranking overview",
@@ -1955,7 +1955,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Competitor Analysis Report",
     description: "In-depth competitor analysis across SEO, social & ads.",
-    price: "₹3,500",
+    price: "₹3,499",
     features: [
       "5 competitor deep analysis",
       "SEO keyword gap analysis",
@@ -1979,7 +1979,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Data & Analytics",
     description:
       "Advanced analytics to turn marketing data into actionable insights.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Multi-source data integration",
       "Custom analytics dashboard",
@@ -2002,7 +2002,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Conversion Rate Optimization (CRO)",
     description: "Data-driven CRO to improve website conversion rates.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "Full CRO audit & analysis",
       "Heatmap & session recording setup",
@@ -2027,7 +2027,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Digital Marketing Strategy Consultation",
     description:
       "One-on-one session to build a customized digital marketing roadmap.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "2-hour strategy session",
       "Business & market analysis",
@@ -2050,7 +2050,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Performance Marketing",
     description: "Data-driven performance marketing focused on measurable ROI.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "Multi-channel campaign setup",
       "ROAS-focused campaign strategy",
@@ -2074,7 +2074,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Influencer Marketing",
     description:
       "End-to-end influencer campaigns including identification & tracking.",
-    price: "₹7,500",
+    price: "₹7,499",
     features: [
       "Influencer identification & vetting",
       "Nano to macro influencer options",
@@ -2098,7 +2098,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Startup Launch Pack",
     description: "Complete digital marketing launch package for startups.",
-    price: "₹12,500",
+    price: "₹12,499",
     features: [
       "Brand identity setup",
       "Social media profile creation",
@@ -2122,7 +2122,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Small Business Growth Pack",
     description:
       "Bundled digital marketing for small businesses growing online.",
-    price: "₹4,500",
+    price: "₹4,499",
     features: [
       "Social media management (2 platforms)",
       "Basic SEO optimization",
@@ -2146,7 +2146,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Restaurant & Food Business Pack",
     description:
       "Specialized digital marketing for restaurants & food businesses.",
-    price: "₹3,000",
+    price: "₹2,999",
     features: [
       "Instagram food content (16 posts/month)",
       "Google My Business optimization",
@@ -2170,7 +2170,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Real Estate Digital Marketing Pack",
     description:
       "Targeted digital marketing for real estate agents & developers.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "Property listing promotion",
       "Facebook & Instagram real estate ads",
@@ -2193,7 +2193,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Healthcare & Clinic Marketing Pack",
     description: "HIPAA-compliant digital marketing for clinics & hospitals.",
-    price: "₹7,500",
+    price: "₹7,499",
     features: [
       "Healthcare-compliant content",
       "Google My Business management",
@@ -2217,7 +2217,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Education & Coaching Marketing Pack",
     description:
       "Digital marketing for coaching institutes & ed-tech platforms.",
-    price: "₹3,500",
+    price: "₹3,499",
     features: [
       "Admission lead campaigns",
       "Facebook & Instagram ed-tech ads",
@@ -2240,7 +2240,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "E-Commerce Growth Pack",
     description: "Comprehensive digital marketing for e-commerce stores.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "Google Shopping campaigns",
       "Meta product catalog ads",
@@ -2264,7 +2264,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Agency White-Label Pack",
     description:
       "White-label digital marketing services for agencies to resell.",
-    price: "₹7,500",
+    price: "₹7,499",
     features: [
       "White-label service delivery",
       "Unbranded client reports",
@@ -2288,7 +2288,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Monthly Retainer – Basic",
     description:
       "Flexible monthly retainer for ongoing digital marketing support.",
-    price: "₹7,500",
+    price: "₹7,499",
     features: [
       "20 hours/month execution support",
       "Social media management (1 platform)",
@@ -2311,7 +2311,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Monthly Retainer – Standard",
     description: "Standard retainer covering social media, SEO & paid ads.",
-    price: "₹7,500",
+    price: "₹7,499",
     features: [
       "40 hours/month execution support",
       "Social media (3 platforms)",
@@ -2335,7 +2335,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Monthly Retainer – Pro",
     description:
       "Pro retainer with full-service digital marketing & priority support.",
-    price: "₹12,500",
+    price: "₹12,499",
     features: [
       "80 hours/month execution support",
       "Social media (5 platforms)",
@@ -2359,7 +2359,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Monthly Retainer – Enterprise",
     description:
       "Enterprise retainer for comprehensive digital marketing coverage.",
-    price: "₹12,500",
+    price: "₹12,499",
     features: [
       "Unlimited execution hours",
       "Dedicated marketing team",
@@ -2383,7 +2383,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Project Management Suite",
     description:
       "End-to-end project management for digital marketing campaigns.",
-    price: "₹4,000",
+    price: "₹3,999",
     features: [
       "Campaign planning & scoping",
       "Project roadmap creation",
@@ -2571,7 +2571,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Student Digital Marketing Internship Pack",
     description: "Hands-on digital marketing project support for students.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "Project scoping & planning",
       "Campaign brief creation",
@@ -2596,7 +2596,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Premium Brand Accelerator",
     description:
       "High-impact brand acceleration combining SEO, ads & influencer marketing.",
-    price: "₹37,500",
+    price: "₹37,499",
     features: [
       "Full SEO management",
       "Google + Meta + LinkedIn ads",
@@ -2620,7 +2620,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Scale-Up Marketing Suite",
     description:
       "Comprehensive marketing suite for scaling with advanced automation.",
-    price: "₹22,500",
+    price: "₹22,499",
     features: [
       "Full-stack marketing execution",
       "Advanced marketing automation",
@@ -2643,7 +2643,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Premium Content & SEO Bundle",
     description: "Premium content marketing & SEO for top search rankings.",
-    price: "₹22,500",
+    price: "₹22,499",
     features: [
       "Unlimited keywords targeted",
       "8 long-form articles/month",
@@ -2667,7 +2667,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Premium Paid Ads Management",
     description:
       "Full-service premium paid ads across Google, Meta, LinkedIn & YouTube.",
-    price: "₹27,500",
+    price: "₹27,499",
     features: [
       "Google Ads full management",
       "Meta Ads full management",
@@ -2692,7 +2692,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Enterprise Digital Marketing Suite",
     description:
       "End-to-end enterprise solution with dedicated team & full execution.",
-    price: "₹37,500",
+    price: "₹37,499",
     features: [
       "Dedicated enterprise marketing team",
       "Custom multi-channel strategy",
@@ -2715,7 +2715,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
   {
     name: "Enterprise SEO & Content Program",
     description: "Large-scale SEO & content program for enterprise websites.",
-    price: "₹40,000",
+    price: "₹39,999",
     features: [
       "Unlimited keywords managed",
       "Enterprise technical SEO audit",
@@ -2739,7 +2739,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Enterprise Paid Ads & Analytics",
     description:
       "Enterprise-grade paid ads with advanced analytics & attribution.",
-    price: "₹60,000",
+    price: "₹59,999",
     features: [
       "All paid ad platforms managed",
       "Enterprise campaign architecture",
@@ -2764,7 +2764,7 @@ const SERVICE_PLANS: ServiceEntry[] = [
     name: "Web3 Toolbox",
     description:
       "Complete Web3 marketing with NFT promotion & crypto community management.",
-    price: "₹2,500",
+    price: "₹2,499",
     features: [
       "NFT project promotion strategy",
       "Discord community management",

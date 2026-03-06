@@ -560,8 +560,8 @@ const CATEGORIES: Category[] = [
         name: "Social Media Management – Starter",
         description:
           "Basic social media management for small businesses. Includes content planning, posting, and monthly reporting.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "2 social platforms managed",
           "12 posts per month",
@@ -585,8 +585,8 @@ const CATEGORIES: Category[] = [
         name: "Social Media Management – Growth",
         description:
           "Comprehensive social media management with engagement, stories, and bi-weekly reporting.",
-        price: "₹7,500",
-        priceDisplay: "₹7,500",
+        price: "₹7,499",
+        priceDisplay: "₹7,499",
         features: [
           "3 social platforms managed",
           "20 posts per month",
@@ -610,8 +610,8 @@ const CATEGORIES: Category[] = [
         name: "Social Media Management – Pro",
         description:
           "Full-service social media management with reels, influencer coordination, and weekly reporting.",
-        price: "₹12,500",
-        priceDisplay: "₹12,500",
+        price: "₹12,499",
+        priceDisplay: "₹12,499",
         features: [
           "4 social platforms managed",
           "30 posts per month",
@@ -635,8 +635,8 @@ const CATEGORIES: Category[] = [
         name: "Instagram Growth Pack",
         description:
           "Dedicated Instagram growth service with content creation, hashtag strategy, engagement, and follower growth.",
-        price: "₹3,500",
-        priceDisplay: "₹3,500",
+        price: "₹3,499",
+        priceDisplay: "₹3,499",
         features: [
           "15 feed posts per month",
           "20 stories per month",
@@ -660,8 +660,8 @@ const CATEGORIES: Category[] = [
         name: "LinkedIn Brand Building",
         description:
           "Professional LinkedIn presence management for personal brands and companies with thought leadership content.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Profile optimization (personal/company)",
           "12 thought leadership posts/month",
@@ -685,8 +685,8 @@ const CATEGORIES: Category[] = [
         name: "YouTube Channel Management",
         description:
           "Complete YouTube channel management including video optimization, thumbnail design, and audience growth.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "Full channel SEO optimization",
           "Video title & description optimization",
@@ -791,8 +791,8 @@ const CATEGORIES: Category[] = [
         name: "SEO – Basic",
         description:
           "On-page SEO optimization, keyword research, and monthly ranking report for up to 10 keywords.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "10 target keywords optimized",
           "Meta title & description writing",
@@ -816,8 +816,8 @@ const CATEGORIES: Category[] = [
         name: "SEO – Standard",
         description:
           "Comprehensive SEO with on-page, off-page, technical audit, and link building for up to 25 keywords.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "25 target keywords optimized",
           "Full technical SEO audit",
@@ -841,8 +841,8 @@ const CATEGORIES: Category[] = [
         name: "SEO – Enterprise",
         description:
           "Enterprise-grade SEO with unlimited keywords, dedicated account manager, and weekly reporting.",
-        price: "₹12,500",
-        priceDisplay: "₹12,500",
+        price: "₹12,499",
+        priceDisplay: "₹12,499",
         features: [
           "Unlimited keywords targeted",
           "Dedicated SEO account manager",
@@ -866,8 +866,8 @@ const CATEGORIES: Category[] = [
         name: "SEO Analysis",
         description:
           "In-depth SEO audit and analysis covering technical SEO, on-page factors, backlink profile, and competitor benchmarking.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "Full technical SEO audit",
           "On-page factor analysis",
@@ -891,8 +891,8 @@ const CATEGORIES: Category[] = [
         name: "Local SEO & Maps Optimization",
         description:
           "Dominate local search results with Google Maps optimization, local citations, and review management.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "Google Business Profile optimization",
           "Google Maps ranking improvement",
@@ -997,8 +997,8 @@ const CATEGORIES: Category[] = [
         name: "Google Ads Management",
         description:
           "Setup and management of Google Search, Display, and Shopping campaigns with monthly optimization.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Google Search campaign setup",
           "Display Network campaign",
@@ -1022,8 +1022,8 @@ const CATEGORIES: Category[] = [
         name: "Meta Ads Management",
         description:
           "Facebook and Instagram paid advertising with audience targeting, creative strategy, and reporting.",
-        price: "₹3,500",
-        priceDisplay: "₹3,500",
+        price: "₹3,499",
+        priceDisplay: "₹3,499",
         features: [
           "Facebook & Instagram campaign setup",
           "Custom audience creation",
@@ -1047,8 +1047,8 @@ const CATEGORIES: Category[] = [
         name: "LinkedIn Ads Management",
         description:
           "B2B LinkedIn advertising for lead generation, brand awareness, and event promotion.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "LinkedIn Campaign Manager setup",
           "Sponsored content campaigns",
@@ -1072,8 +1072,8 @@ const CATEGORIES: Category[] = [
         name: "Paid Ads Tracker",
         description:
           "Comprehensive paid advertising tracking and optimization service across Google, Meta, LinkedIn, and YouTube.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Cross-platform tracking setup",
           "Google Tag Manager configuration",
@@ -1097,8 +1097,8 @@ const CATEGORIES: Category[] = [
         name: "YouTube Ads Management",
         description:
           "YouTube advertising campaigns including TrueView, bumper ads, and discovery ads with full optimization.",
-        price: "₹4,500",
-        priceDisplay: "₹4,500",
+        price: "₹4,499",
+        priceDisplay: "₹4,499",
         features: [
           "TrueView in-stream campaign setup",
           "Bumper ad campaign management",
@@ -1122,8 +1122,8 @@ const CATEGORIES: Category[] = [
         name: "Pinterest & Twitter Ads",
         description:
           "Niche platform advertising on Pinterest and Twitter/X for brand awareness and targeted audience reach.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Pinterest Ads campaign setup",
           "Twitter/X Ads campaign setup",
@@ -1228,8 +1228,8 @@ const CATEGORIES: Category[] = [
         name: "Blog Writing – Starter",
         description:
           "SEO-optimized blog articles written by expert content writers. 4 articles per month.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "4 blog articles per month",
           "SEO keyword integration",
@@ -1253,8 +1253,8 @@ const CATEGORIES: Category[] = [
         name: "Blog Writing – Growth",
         description:
           "High-quality long-form blog content with keyword research and internal linking. 8 articles per month.",
-        price: "₹4,500",
-        priceDisplay: "₹4,500",
+        price: "₹4,499",
+        priceDisplay: "₹4,499",
         features: [
           "8 long-form articles per month",
           "1,500–2,500 words per article",
@@ -1303,8 +1303,8 @@ const CATEGORIES: Category[] = [
         name: "Podcast Production & Marketing",
         description:
           "End-to-end podcast production, editing, and marketing to grow your audience and brand authority.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Podcast episode editing (4/month)",
           "Intro/outro creation",
@@ -1328,8 +1328,8 @@ const CATEGORIES: Category[] = [
         name: "Digital PR & Media Outreach",
         description:
           "Strategic digital PR campaigns to earn media coverage, backlinks, and brand mentions from top publications.",
-        price: "₹7,500",
-        priceDisplay: "₹7,500",
+        price: "₹7,499",
+        priceDisplay: "₹7,499",
         features: [
           "Media list building (50+ outlets)",
           "Press release writing",
@@ -1434,8 +1434,8 @@ const CATEGORIES: Category[] = [
         name: "Email Marketing – Growth",
         description:
           "Advanced email marketing with automation sequences, segmentation, and A/B testing.",
-        price: "₹4,500",
-        priceDisplay: "₹4,500",
+        price: "₹4,499",
+        priceDisplay: "₹4,499",
         features: [
           "4 email campaigns per month",
           "Up to 10,000 subscribers",
@@ -1459,8 +1459,8 @@ const CATEGORIES: Category[] = [
         name: "Email Marketing – Enterprise",
         description:
           "Full-service email marketing with drip campaigns, CRM integration, and dedicated account manager.",
-        price: "₹4,500",
-        priceDisplay: "₹4,500",
+        price: "₹4,499",
+        priceDisplay: "₹4,499",
         features: [
           "Unlimited email campaigns",
           "Unlimited subscribers",
@@ -1484,8 +1484,8 @@ const CATEGORIES: Category[] = [
         name: "Email Campaign Manager",
         description:
           "Full-service email campaign management including strategy, design, copywriting, automation, and performance tracking.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "Campaign strategy development",
           "3 email campaigns per month",
@@ -1515,8 +1515,8 @@ const CATEGORIES: Category[] = [
         name: "Landing Page Design",
         description:
           "High-converting landing page design and development with mobile responsiveness and CTA optimization.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "Custom landing page design",
           "Mobile-first responsive layout",
@@ -1540,8 +1540,8 @@ const CATEGORIES: Category[] = [
         name: "Business Website Development",
         description:
           "Professional 5–10 page business website with CMS, contact forms, and SEO setup.",
-        price: "₹17,500",
-        priceDisplay: "₹17,500",
+        price: "₹17,499",
+        priceDisplay: "₹17,499",
         features: [
           "5–10 page custom website",
           "CMS integration (WordPress/etc.)",
@@ -1565,8 +1565,8 @@ const CATEGORIES: Category[] = [
         name: "E-Commerce Website",
         description:
           "Full-featured e-commerce website with product catalog, payment gateway, and order management.",
-        price: "₹12,500",
-        priceDisplay: "₹12,500",
+        price: "₹12,499",
+        priceDisplay: "₹12,499",
         features: [
           "Full e-commerce platform setup",
           "Product catalog (up to 100 SKUs)",
@@ -1590,8 +1590,8 @@ const CATEGORIES: Category[] = [
         name: "Landing Page Builder",
         description:
           "Professional landing page design and development service with conversion optimization and A/B testing.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "Custom landing page build",
           "A/B testing setup",
@@ -1615,8 +1615,8 @@ const CATEGORIES: Category[] = [
         name: "WordPress Website Pack",
         description:
           "Professional WordPress website design and development with SEO setup and mobile optimization.",
-        price: "₹4,500",
-        priceDisplay: "₹4,500",
+        price: "₹4,499",
+        priceDisplay: "₹4,499",
         features: [
           "Custom WordPress theme design",
           "Responsive mobile optimization",
@@ -1640,8 +1640,8 @@ const CATEGORIES: Category[] = [
         name: "Shopify Store Setup",
         description:
           "Complete Shopify store setup with product listings, payment gateway, and conversion optimization.",
-        price: "₹12,500",
-        priceDisplay: "₹12,500",
+        price: "₹12,499",
+        priceDisplay: "₹12,499",
         features: [
           "Shopify store setup & configuration",
           "Premium theme customization",
@@ -1671,8 +1671,8 @@ const CATEGORIES: Category[] = [
         name: "Brand Identity Design",
         description:
           "Complete brand identity including logo, color palette, typography, and brand guidelines.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Primary logo design (3 concepts)",
           "Secondary logo variant",
@@ -1746,8 +1746,8 @@ const CATEGORIES: Category[] = [
         name: "Digital Asset Manager",
         description:
           "Comprehensive digital asset management service including content library organization, brand asset creation, and distribution.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "Digital asset library setup",
           "Brand asset categorization",
@@ -1796,8 +1796,8 @@ const CATEGORIES: Category[] = [
         name: "Complete Brand Identity Pack",
         description:
           "Full brand identity creation including logo, color palette, typography, brand guidelines, and all brand collateral.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "Primary + secondary logo design",
           "Full color palette system",
@@ -1852,8 +1852,8 @@ const CATEGORIES: Category[] = [
         name: "Corporate Video Production",
         description:
           "End-to-end corporate video production including scripting, shooting, and post-production.",
-        price: "₹12,500",
-        priceDisplay: "₹12,500",
+        price: "₹12,499",
+        priceDisplay: "₹12,499",
         features: [
           "Pre-production planning",
           "Script writing & storyboarding",
@@ -1877,8 +1877,8 @@ const CATEGORIES: Category[] = [
         name: "Explainer Video (Animated)",
         description:
           "Animated explainer videos for products, services, and onboarding with voiceover.",
-        price: "₹7,500",
-        priceDisplay: "₹7,500",
+        price: "₹7,499",
+        priceDisplay: "₹7,499",
         features: [
           "60–90 second animated video",
           "Script writing included",
@@ -1908,8 +1908,8 @@ const CATEGORIES: Category[] = [
         name: "WhatsApp Business Automation",
         description:
           "Set up WhatsApp Business API with automated replies, chatbot flows, and lead capture.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "WhatsApp Business API setup",
           "Automated reply flows (10 flows)",
@@ -1933,8 +1933,8 @@ const CATEGORIES: Category[] = [
         name: "CRM Setup & Automation",
         description:
           "Setup and configure CRM with automated lead nurturing, pipeline management, and reporting.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "CRM platform setup (Zoho/HubSpot)",
           "Pipeline stage configuration",
@@ -1958,8 +1958,8 @@ const CATEGORIES: Category[] = [
         name: "AI Chatbot Development",
         description:
           "Custom AI-powered chatbot for website, WhatsApp, or social media with NLP capabilities.",
-        price: "₹4,500",
-        priceDisplay: "₹4,500",
+        price: "₹4,499",
+        priceDisplay: "₹4,499",
         features: [
           "Custom AI chatbot design",
           "NLP (Natural Language Processing)",
@@ -1983,8 +1983,8 @@ const CATEGORIES: Category[] = [
         name: "WhatsApp Marketing Campaigns",
         description:
           "Targeted WhatsApp marketing campaigns with broadcast messages, catalog setup, and customer engagement.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "4 broadcast campaigns per month",
           "Target audience segmentation",
@@ -2014,8 +2014,8 @@ const CATEGORIES: Category[] = [
         name: "Lead Generation – Starter",
         description:
           "Targeted lead generation using LinkedIn, email outreach, and landing pages.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "LinkedIn lead prospecting",
           "100 targeted leads per month",
@@ -2039,8 +2039,8 @@ const CATEGORIES: Category[] = [
         name: "Lead Generation – Growth",
         description:
           "Multi-channel lead generation with paid ads, SEO, and content marketing integration.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "Multi-channel lead strategy",
           "300+ targeted leads per month",
@@ -2064,8 +2064,8 @@ const CATEGORIES: Category[] = [
         name: "B2B Lead Generation",
         description:
           "Specialized B2B lead generation with account-based marketing and decision-maker targeting.",
-        price: "₹7,500",
-        priceDisplay: "₹7,500",
+        price: "₹7,499",
+        priceDisplay: "₹7,499",
         features: [
           "Account-based marketing (ABM)",
           "500+ B2B leads per month",
@@ -2095,8 +2095,8 @@ const CATEGORIES: Category[] = [
         name: "Online Reputation Management",
         description:
           "Monitor, manage, and improve your online reputation across Google, social media, and review platforms.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Brand mention monitoring (24/7)",
           "Google review management",
@@ -2120,8 +2120,8 @@ const CATEGORIES: Category[] = [
         name: "Google My Business Optimization",
         description:
           "Complete GMB profile optimization, post management, and review response service.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "GMB profile full optimization",
           "Business category optimization",
@@ -2151,8 +2151,8 @@ const CATEGORIES: Category[] = [
         name: "Marketing Analytics Setup",
         description:
           "Setup Google Analytics 4, Tag Manager, and custom dashboards for comprehensive marketing tracking.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Google Analytics 4 setup",
           "Google Tag Manager configuration",
@@ -2176,8 +2176,8 @@ const CATEGORIES: Category[] = [
         name: "Monthly Marketing Report",
         description:
           "Comprehensive monthly marketing performance report with insights and recommendations.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "Full monthly performance report",
           "SEO ranking overview",
@@ -2201,8 +2201,8 @@ const CATEGORIES: Category[] = [
         name: "Competitor Analysis Report",
         description:
           "In-depth competitor analysis covering SEO, social media, ads, and content strategy.",
-        price: "₹3,500",
-        priceDisplay: "₹3,500",
+        price: "₹3,499",
+        priceDisplay: "₹3,499",
         features: [
           "5 competitor deep analysis",
           "SEO keyword gap analysis",
@@ -2226,8 +2226,8 @@ const CATEGORIES: Category[] = [
         name: "Data & Analytics",
         description:
           "Advanced data analytics and reporting service to turn your marketing data into actionable business insights.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Multi-source data integration",
           "Custom analytics dashboard",
@@ -2251,8 +2251,8 @@ const CATEGORIES: Category[] = [
         name: "Conversion Rate Optimization (CRO)",
         description:
           "Data-driven CRO service to improve website conversion rates through testing, analysis, and optimization.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "Full CRO audit & analysis",
           "Heatmap & session recording setup",
@@ -2282,8 +2282,8 @@ const CATEGORIES: Category[] = [
         name: "Digital Marketing Strategy Consultation",
         description:
           "One-on-one strategy session to build a customized digital marketing roadmap for your business.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "2-hour strategy session",
           "Business & market analysis",
@@ -2307,8 +2307,8 @@ const CATEGORIES: Category[] = [
         name: "Performance Marketing",
         description:
           "Data-driven performance marketing campaigns focused on measurable ROI across all digital channels.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "Multi-channel campaign setup",
           "ROAS-focused campaign strategy",
@@ -2332,8 +2332,8 @@ const CATEGORIES: Category[] = [
         name: "Influencer Marketing",
         description:
           "End-to-end influencer marketing campaigns including identification, outreach, and performance tracking.",
-        price: "₹7,500",
-        priceDisplay: "₹7,500",
+        price: "₹7,499",
+        priceDisplay: "₹7,499",
         features: [
           "Influencer identification & vetting",
           "Nano to macro influencer options",
@@ -2363,8 +2363,8 @@ const CATEGORIES: Category[] = [
         name: "Startup Launch Pack",
         description:
           "Complete digital marketing launch package for startups — brand identity, social setup, and initial campaigns.",
-        price: "₹12,500",
-        priceDisplay: "₹12,500",
+        price: "₹12,499",
+        priceDisplay: "₹12,499",
         features: [
           "Brand identity setup",
           "Social media profile creation",
@@ -2388,8 +2388,8 @@ const CATEGORIES: Category[] = [
         name: "Small Business Growth Pack",
         description:
           "Bundled digital marketing services tailored for small businesses looking to grow their online presence.",
-        price: "₹4,500",
-        priceDisplay: "₹4,500",
+        price: "₹4,499",
+        priceDisplay: "₹4,499",
         features: [
           "Social media management (2 platforms)",
           "Basic SEO optimization",
@@ -2413,8 +2413,8 @@ const CATEGORIES: Category[] = [
         name: "Restaurant & Food Business Pack",
         description:
           "Specialized digital marketing for restaurants, cafes, and food businesses with local SEO and social media.",
-        price: "₹3,000",
-        priceDisplay: "₹3,000",
+        price: "₹2,999",
+        priceDisplay: "₹2,999",
         features: [
           "Instagram food content (16 posts/month)",
           "Google My Business optimization",
@@ -2438,8 +2438,8 @@ const CATEGORIES: Category[] = [
         name: "Real Estate Digital Marketing Pack",
         description:
           "Targeted digital marketing for real estate agents and developers with lead generation and property promotion.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "Property listing promotion",
           "Facebook & Instagram real estate ads",
@@ -2463,8 +2463,8 @@ const CATEGORIES: Category[] = [
         name: "Healthcare & Clinic Marketing Pack",
         description:
           "HIPAA-compliant digital marketing for clinics, hospitals, and healthcare professionals.",
-        price: "₹7,500",
-        priceDisplay: "₹7,500",
+        price: "₹7,499",
+        priceDisplay: "₹7,499",
         features: [
           "Healthcare-compliant content",
           "Google My Business management",
@@ -2488,8 +2488,8 @@ const CATEGORIES: Category[] = [
         name: "Education & Coaching Marketing Pack",
         description:
           "Digital marketing solutions for coaching institutes, ed-tech platforms, and educational institutions.",
-        price: "₹3,500",
-        priceDisplay: "₹3,500",
+        price: "₹3,499",
+        priceDisplay: "₹3,499",
         features: [
           "Admission lead campaigns",
           "Facebook & Instagram ed-tech ads",
@@ -2513,8 +2513,8 @@ const CATEGORIES: Category[] = [
         name: "E-Commerce Growth Pack",
         description:
           "Comprehensive digital marketing for e-commerce stores to drive traffic, conversions, and repeat purchases.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "Google Shopping campaigns",
           "Meta product catalog ads",
@@ -2538,8 +2538,8 @@ const CATEGORIES: Category[] = [
         name: "Agency White-Label Pack",
         description:
           "White-label digital marketing services for agencies to resell under their own brand.",
-        price: "₹7,500",
-        priceDisplay: "₹7,500",
+        price: "₹7,499",
+        priceDisplay: "₹7,499",
         features: [
           "White-label service delivery",
           "Unbranded client reports",
@@ -2563,8 +2563,8 @@ const CATEGORIES: Category[] = [
         name: "Monthly Retainer – Basic",
         description:
           "Flexible monthly retainer for ongoing digital marketing support and execution.",
-        price: "₹7,500",
-        priceDisplay: "₹7,500",
+        price: "₹7,499",
+        priceDisplay: "₹7,499",
         features: [
           "20 hours/month execution support",
           "Social media management (1 platform)",
@@ -2588,8 +2588,8 @@ const CATEGORIES: Category[] = [
         name: "Monthly Retainer – Standard",
         description:
           "Standard monthly retainer covering social media, SEO, and paid ads management.",
-        price: "₹7,500",
-        priceDisplay: "₹7,500",
+        price: "₹7,499",
+        priceDisplay: "₹7,499",
         features: [
           "40 hours/month execution support",
           "Social media (3 platforms)",
@@ -2613,8 +2613,8 @@ const CATEGORIES: Category[] = [
         name: "Monthly Retainer – Pro",
         description:
           "Pro monthly retainer with full-service digital marketing, dedicated manager, and priority support.",
-        price: "₹12,500",
-        priceDisplay: "₹12,500",
+        price: "₹12,499",
+        priceDisplay: "₹12,499",
         features: [
           "80 hours/month execution support",
           "Social media (5 platforms)",
@@ -2638,8 +2638,8 @@ const CATEGORIES: Category[] = [
         name: "Monthly Retainer – Enterprise",
         description:
           "Enterprise monthly retainer for large businesses requiring comprehensive digital marketing coverage.",
-        price: "₹12,500",
-        priceDisplay: "₹12,500",
+        price: "₹12,499",
+        priceDisplay: "₹12,499",
         features: [
           "Unlimited execution hours",
           "Dedicated marketing team",
@@ -2663,8 +2663,8 @@ const CATEGORIES: Category[] = [
         name: "Project Management Suite",
         description:
           "End-to-end project management for digital marketing campaigns including planning, execution, and reporting.",
-        price: "₹4,000",
-        priceDisplay: "₹4,000",
+        price: "₹3,999",
+        priceDisplay: "₹3,999",
         features: [
           "Campaign planning & scoping",
           "Project roadmap creation",
@@ -2869,8 +2869,8 @@ const CATEGORIES: Category[] = [
         name: "Student Digital Marketing Internship Pack",
         description:
           "Hands-on digital marketing project support for students completing internships or academic projects.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "Project scoping & planning",
           "Campaign brief creation",
@@ -2900,8 +2900,8 @@ const CATEGORIES: Category[] = [
         name: "Premium Brand Accelerator",
         description:
           "High-impact brand acceleration program combining SEO, paid ads, content, and influencer marketing.",
-        price: "₹37,500",
-        priceDisplay: "₹37,500",
+        price: "₹37,499",
+        priceDisplay: "₹37,499",
         features: [
           "Full SEO management",
           "Google + Meta + LinkedIn ads",
@@ -2925,8 +2925,8 @@ const CATEGORIES: Category[] = [
         name: "Scale-Up Marketing Suite",
         description:
           "Comprehensive marketing suite for businesses ready to scale with advanced automation and analytics.",
-        price: "₹22,500",
-        priceDisplay: "₹22,500",
+        price: "₹22,499",
+        priceDisplay: "₹22,499",
         features: [
           "Full-stack marketing execution",
           "Advanced marketing automation",
@@ -2950,8 +2950,8 @@ const CATEGORIES: Category[] = [
         name: "Premium Content & SEO Bundle",
         description:
           "Premium content marketing and SEO bundle for businesses targeting top search rankings and thought leadership.",
-        price: "₹22,500",
-        priceDisplay: "₹22,500",
+        price: "₹22,499",
+        priceDisplay: "₹22,499",
         features: [
           "Unlimited keywords targeted",
           "8 long-form articles/month",
@@ -2975,8 +2975,8 @@ const CATEGORIES: Category[] = [
         name: "Premium Paid Ads Management",
         description:
           "Full-service premium paid advertising management across Google, Meta, LinkedIn, and YouTube.",
-        price: "₹27,500",
-        priceDisplay: "₹27,500",
+        price: "₹27,499",
+        priceDisplay: "₹27,499",
         features: [
           "Google Ads full management",
           "Meta Ads full management",
@@ -3006,8 +3006,8 @@ const CATEGORIES: Category[] = [
         name: "Enterprise Digital Marketing Suite",
         description:
           "End-to-end enterprise digital marketing solution with dedicated team, custom strategy, and full-service execution.",
-        price: "₹37,500",
-        priceDisplay: "₹37,500",
+        price: "₹37,499",
+        priceDisplay: "₹37,499",
         features: [
           "Dedicated enterprise marketing team",
           "Custom multi-channel strategy",
@@ -3031,8 +3031,8 @@ const CATEGORIES: Category[] = [
         name: "Enterprise SEO & Content Program",
         description:
           "Large-scale SEO and content marketing program for enterprise websites with hundreds of pages.",
-        price: "₹40,000",
-        priceDisplay: "₹40,000",
+        price: "₹39,999",
+        priceDisplay: "₹39,999",
         features: [
           "Unlimited keywords managed",
           "Enterprise technical SEO audit",
@@ -3056,8 +3056,8 @@ const CATEGORIES: Category[] = [
         name: "Enterprise Paid Ads & Analytics",
         description:
           "Enterprise-grade paid advertising with advanced analytics, attribution modeling, and custom reporting.",
-        price: "₹60,000",
-        priceDisplay: "₹60,000",
+        price: "₹59,999",
+        priceDisplay: "₹59,999",
         features: [
           "All paid ad platforms managed",
           "Enterprise campaign architecture",
@@ -3087,8 +3087,8 @@ const CATEGORIES: Category[] = [
         name: "Web3 Toolbox",
         description:
           "Complete Web3 marketing toolkit including NFT promotion, crypto community management, and blockchain project marketing.",
-        price: "₹2,500",
-        priceDisplay: "₹2,500",
+        price: "₹2,499",
+        priceDisplay: "₹2,499",
         features: [
           "NFT project promotion strategy",
           "Discord community management",
