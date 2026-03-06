@@ -44,6 +44,7 @@ export default function App() {
       {/* Main content */}
       <main>
         <HeroSection />
+        <ContactSection />
         <TrustBand />
         <PricingSection />
         <AllPlansCarousel />
@@ -53,7 +54,6 @@ export default function App() {
         <ROICalculator />
         <ComparePlans />
         <FAQSection />
-        <ContactSection />
         <FinalCTA />
       </main>
 
