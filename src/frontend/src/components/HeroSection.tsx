@@ -1,4 +1,4 @@
-import { CheckCircle2, ChevronDown } from "lucide-react";
+import { CheckCircle2 } from "lucide-react";
 import { useEffect, useRef } from "react";
 
 export default function HeroSection() {
@@ -168,21 +168,115 @@ export default function HeroSection() {
         </div>
       </div>
 
-      {/* Scroll indicator */}
+      {/* Scroll down widget */}
       <button
         type="button"
         onClick={scrollToPricing}
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1"
-        style={{ color: "rgba(255,255,255,0.35)" }}
+        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3 group"
+        style={{ color: "rgba(255,255,255,0.4)" }}
         aria-label="Scroll down"
+        data-ocid="hero.scroll_down.button"
       >
+        {/* Animated text */}
         <span
-          className="text-xs font-medium tracking-widest uppercase"
-          style={{ letterSpacing: "0.15em" }}
+          className="scroll-text-anim text-xs font-semibold uppercase"
+          style={{
+            letterSpacing: "0.25em",
+            color: "oklch(0.88 0.18 168 / 70%)",
+          }}
         >
-          Scroll
+          Scroll Down
         </span>
-        <ChevronDown size={18} className="scroll-indicator" />
+
+        {/* Mouse outline */}
+        <div
+          className="relative flex items-start justify-center rounded-full"
+          style={{
+            width: "26px",
+            height: "42px",
+            border: "2px solid oklch(0.88 0.18 168 / 50%)",
+            borderRadius: "13px",
+            boxShadow: "0 0 12px rgba(0,255,198,0.2)",
+            transition: "box-shadow 0.3s ease",
+          }}
+        >
+          {/* Scrolling dot inside mouse */}
+          <span
+            className="scroll-mouse-dot absolute top-[6px] rounded-full"
+            style={{
+              width: "4px",
+              height: "4px",
+              background: "oklch(0.88 0.18 168)",
+              boxShadow: "0 0 6px rgba(0,255,198,0.9)",
+            }}
+          />
+        </div>
+
+        {/* Cascading chevrons */}
+        <div
+          className="flex flex-col items-center"
+          style={{ gap: "0px", marginTop: "-4px" }}
+        >
+          {/* Chevron 1 */}
+          <svg
+            className="chevron-1"
+            width="14"
+            height="8"
+            viewBox="0 0 14 8"
+            fill="none"
+            role="img"
+            aria-label="scroll down"
+          >
+            <title>scroll down</title>
+            <path
+              d="M1 1L7 7L13 1"
+              stroke="oklch(0.88 0.18 168)"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
+          </svg>
+          {/* Chevron 2 */}
+          <svg
+            className="chevron-2"
+            width="14"
+            height="8"
+            viewBox="0 0 14 8"
+            fill="none"
+            role="img"
+            aria-label="scroll down"
+            style={{ marginTop: "-3px" }}
+          >
+            <title>scroll down</title>
+            <path
+              d="M1 1L7 7L13 1"
+              stroke="oklch(0.88 0.18 168 / 60%)"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
+          </svg>
+          {/* Chevron 3 */}
+          <svg
+            className="chevron-3"
+            width="14"
+            height="8"
+            viewBox="0 0 14 8"
+            fill="none"
+            role="img"
+            aria-label="scroll down"
+            style={{ marginTop: "-3px" }}
+          >
+            <title>scroll down</title>
+            <path
+              d="M1 1L7 7L13 1"
+              stroke="oklch(0.88 0.18 168 / 30%)"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
+          </svg>
+        </div>
       </button>
     </section>
   );

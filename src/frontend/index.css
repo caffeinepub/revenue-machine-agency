@@ -204,6 +204,37 @@
     animation: scroll-indicator 1.5s ease-in-out infinite;
   }
 
+  /* Scroll down widget animations */
+  @keyframes scroll-mouse-dot {
+    0% { opacity: 1; transform: translateY(0); }
+    60% { opacity: 1; transform: translateY(6px); }
+    100% { opacity: 0; transform: translateY(6px); }
+  }
+
+  .scroll-mouse-dot {
+    animation: scroll-mouse-dot 1.8s ease-in-out infinite;
+  }
+
+  @keyframes scroll-text-fade {
+    0%, 100% { opacity: 0.4; letter-spacing: 0.25em; }
+    50% { opacity: 0.9; letter-spacing: 0.35em; }
+  }
+
+  .scroll-text-anim {
+    animation: scroll-text-fade 2.5s ease-in-out infinite;
+  }
+
+  @keyframes chevron-cascade {
+    0% { opacity: 0; transform: translateY(-4px); }
+    40% { opacity: 1; }
+    80% { opacity: 0; transform: translateY(4px); }
+    100% { opacity: 0; }
+  }
+
+  .chevron-1 { animation: chevron-cascade 1.8s ease-in-out infinite; animation-delay: 0s; }
+  .chevron-2 { animation: chevron-cascade 1.8s ease-in-out infinite; animation-delay: 0.3s; }
+  .chevron-3 { animation: chevron-cascade 1.8s ease-in-out infinite; animation-delay: 0.6s; }
+
   .gradient-text {
     background: linear-gradient(135deg, oklch(0.88 0.18 168) 0%, oklch(0.75 0.14 168) 100%);
     -webkit-background-clip: text;
